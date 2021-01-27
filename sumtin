@@ -1,0 +1,2 @@
+curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -H "Content-Type: application/x-www-form-urlencoded" -d "addr=1FoWyxwPXuj4C6abqwhjDWdz6D4PZgYRjA&addr=1KYiKJEfdJtap9QX2v9BXJMpz2SfU4pgZw" "https://api.omniwallet.org/v2/address/addr/"
+1DPoHDqWtxGGn8ven4wgpaizNaQNPNMQDH
